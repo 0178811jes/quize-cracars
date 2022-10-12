@@ -13,7 +13,7 @@ const Quiz = () => {
     <div className="grid grid-cols-12 md:grid-cols-[3fr ,1fr]  gap-4 w-[90%] mx-auto bg-rose-50 py-6">
       <div className="w-[90%] mx-auto col-span-full md:col-span-9">
         <h2 className="text-3xl font-bold text-center">
-          Crack the Quiz {name}
+          Crack the Quiz of{name}
         </h2>
 
         <div>
